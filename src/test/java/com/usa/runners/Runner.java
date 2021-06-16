@@ -14,19 +14,10 @@ import org.junit.runner.RunWith;
 )
 public class Runner {
 
+// Esmira Alperen
 // Esra
-
-
-
     //Sibel 10:53
-
-	
-	
-   
-	
-	
 	//Emine :)
    //Emine :))))
     //Sibel 10:58
-
 }
